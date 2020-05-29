@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">finalProject</string>
+    <string name="buttonProfile">История</string>
+    <string name="buttonTournament">Турнир</string>
+    <string name="buttonShop">Магазин</string>
+    <string name="buttonTraining">Тренировка</string>
+    <string name="Weapon">Оружие</string>
+    <string name="Stomach_protection">Нагрудник</string>
+    <string name="boots">Ботинки</string>
+    <string name="heads">Шлем</string>
+    <string name="hands">Перчатки</string>
+
+    <string name="buyAnItem">Купить</string>
+    <string name="StartWeapon">Начальный меч</string>
+    <string name="StartChest">Начальный нагрудник</string>
+    <string name="StartBoots">Начальные ботинки</string>
+    <string name="StartHead">Начальный шлем</string>
+    <string name="powerOfWeapon">Сила оружия: 0</string>
+    <string name="powerOfChest">Защита тела: 0</string>
+    <string name="powerOfBoots">Защита ног: 0</string>
+    <string name="powerOfHead">Защита головы: 0</string>
+    <string name="OpponentBodyProtection">Защита тела врага: ?</string>
+    <string name="OpponentWeaponPower">Урон оружия врага: ?</string>
+    <string name="OpponentBootsProtection">Защита ног врага: ?</string>
+    <string name="OpponentHeadProtection">Защита головы врага: ?</string>
+    <string name="MyHealth">Мое здоровье: 100</string>
+    <string name="MyOpponentHealth">Здоровье врага: 100</string>
+    <string name="Shop">Лавка</string>
+    <string name="training">Тренировка</string>
+    <string name="Profile">Профиль</string>
+    <string name="tournament">Турнир</string>
+    <string name="StartTheFight">Начало битвы!</string>
+    <string name="Body">Ударить в тело</string>
+    <string name="Head">Ударить в голову</string>
+    <string name="Legs">Ударить в ноги</string>
+    <string name="Lose_Weapon">Выбить оружие</string>
+    <string name="zero">0</string>
+    <string name="CurrentMoney">Текущее золото:</string>
+    <string name="Training">Тренировка</string>
+    <string name="CurrentThings">Текущая экипировка</string>
+    <string name="border">Border</string>
+</resources>

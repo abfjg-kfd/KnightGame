@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Магазин"
+        android:title="@string/Shop"
+        android:icon="@mipmap/coin_icon_foreground"/>
+
+    <item
+        android:id="@+id/Тренировка"
+        android:title="@string/training"
+        android:icon="@mipmap/shop_icon_foreground"/>
+
+    <item
+        android:id="@+id/Профиль"
+        android:title="@string/Profile"
+        android:icon="@mipmap/knight_icon_background"/>
+
+    <item
+        android:id="@+id/Битва"
+        android:title="@string/tournament"
+        android:icon="@mipmap/fight_icon_background"/>
+
+
+
+
+</menu>

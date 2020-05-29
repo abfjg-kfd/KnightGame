@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_button"
+    app:startDestination="@+id/Профиль">
+
+
+    <fragment
+        android:id="@+id/Тренировка"
+        android:name="com.example.finalproject.Fragments.TrainingFragment"
+        android:label="Тренировка"
+        tools:layout="@layout/fragment_training" />
+
+    <fragment
+        android:id="@+id/Магазин"
+        android:name="com.example.finalproject.Fragments.ShopFragment"
+        android:label="Магазин"
+        tools:layout="@layout/fragment_shop" />
+
+    <fragment
+        android:id="@+id/Профиль"
+        android:name="com.example.finalproject.Fragments.ProfileFragment"
+        android:label="Профиль"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/Битва"
+        android:name="com.example.finalproject.Fragments.FightFragment"
+        android:label="Битва"
+        tools:layout="@layout/fragment_fight"/>
+
+</navigation>
